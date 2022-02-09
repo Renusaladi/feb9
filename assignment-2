@@ -1,0 +1,9 @@
+num=int(input('given number:')
+if num%2==0:
+  print('given number is even:')
+else:
+  print('given number is odd:')
+  
+  Output:
+  given number:4
+given number is even
